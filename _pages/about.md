@@ -34,12 +34,12 @@ My current research interests are in the areas of (1) **Video segmentation**, (2
 <div class='paper-box-text' markdown="1">
 
 CLIP-VIS: Adapting CLIP for Open-Vocabulary
-Video Instance Segmentation
+Video Instance Segmentation  
 |**IEEE TCSVT**|[Paper](https://ieeexplore.ieee.org/document/10706247)|[Code](https://github.com/zwq456/CLIP-VIS)|
 
 **Wenqi Zhu**, Jiale Cao, Jin Xie, Shuangming Yang, and Yanwei Pang
 
-- <strong style="color:green"> </strong>
+- <strong style="color:green"> </strong>To address the issue of poor model generalization caused by the alignment of learnable queries and text embeddings in existing methods, we implemented the alignment of image features and text features using Mask Pooling. Additionally, we proposed a TopK-enhanced instance matching strategy to mitigate problems such as error propagation in matching and susceptibility to noisy frames in the original matching strategy.
 </div>
 </div>
 
@@ -51,7 +51,7 @@ VideoGLaMM : A Large Multimodal Model for Pixel-Level  Visual Grounding in Video
 
 Shehan Munasinghe, Hanan Gani, **Wenqi Zhu**, Jiale Cao, Eric Xing, Fahad Shahbaz Khan and Salman Khan
 
-- <strong style="color:green"> </strong>
+- <strong style="color:green"> </strong>We propose a multimodal model for pixel-level  visual grounding in videos and introduce a dataset with diverse multimodal annotations. Our model and dataset support various tasks, including grounded conversation generation, visual grounding, and referring video segmentation.
 </div>
 </div>
 
