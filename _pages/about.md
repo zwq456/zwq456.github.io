@@ -43,7 +43,7 @@ Video Instance Segmentation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images\VideoGLaMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images\VideoGLaMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VideoGLaMM : A Large Multimodal Model for Pixel-Level  Visual Grounding in Videos
