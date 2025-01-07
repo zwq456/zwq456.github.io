@@ -39,7 +39,7 @@ Video Instance Segmentation
 
 **Wenqi Zhu**, Jiale Cao, Jin Xie, Shuangming Yang, and Yanwei Pang
 
-- <strong style="color:green"> </strong>To address the issue of poor model generalization caused by the alignment of learnable queries and text embeddings in existing methods, we implemented the alignment of image features and text features using Mask Pooling. Additionally, we proposed a TopK-enhanced instance matching strategy to mitigate problems such as error propagation in matching and susceptibility to noisy frames in the original matching strategy.
+- <strong style="color:green"> </strong>To address the issue of poor model generalization caused by the alignment of learnable queries and text embeddings in existing methods, we implemented the alignment of image features and text features using Mask Pooling. Additionally, we proposed a TopK-enhanced instance matching strategy to mitigate problems such as error propagation in matching and susceptibility to noisy frames in the original matching strategy.</strong>
 </div>
 </div>
 
@@ -51,7 +51,7 @@ VideoGLaMM : A Large Multimodal Model for Pixel-Level  Visual Grounding in Video
 
 Shehan Munasinghe, Hanan Gani, **Wenqi Zhu**, Jiale Cao, Eric Xing, Fahad Shahbaz Khan and Salman Khan
 
-- <strong style="color:green"> </strong>We propose a multimodal model for pixel-level  visual grounding in videos and introduce a dataset with diverse multimodal annotations. Our model and dataset support various tasks, including grounded conversation generation, visual grounding, and referring video segmentation.
+- <strong style="color:green"> </strong>We propose a multimodal model for pixel-level  visual grounding in videos and introduce a dataset with diverse multimodal annotations. Our model and dataset support various tasks, including grounded conversation generation, visual grounding, and referring video segmentation.</strong>
 </div>
 </div>
 
