@@ -47,7 +47,7 @@ Video Instance Segmentation
 <div class='paper-box-text' markdown="1">
 
 VideoGLaMM : A Large Multimodal Model for Pixel-Level  Visual Grounding in Videos
-[Paper](https://arxiv.org/abs/2411.04923)|[Code](https://mbzuai-oryx.github.io/VideoGLaMM)|
+|**CVPR 2025**|[Paper](https://arxiv.org/abs/2411.04923)|[Code](https://mbzuai-oryx.github.io/VideoGLaMM)|
 
 Shehan Munasinghe, Hanan Gani, **Wenqi Zhu**, Jiale Cao, Eric Xing, Fahad Shahbaz Khan and Salman Khan
 
