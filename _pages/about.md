@@ -19,14 +19,17 @@ redirect_from:
 I received the B.E degree in electronic
 information engineering from Tianjin University,
 Tianjin, China, in 2023.
-From 2023 to present, I am a Master's Student at the School of Electrical and Information Engineering, Tianjin University, advised by Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
+From 2023 to present, I am a Master's Student at the School of Electrical and Information Engineering, Tianjin University, advised by Associate Prof. [Jiale Cao](https://jialecao001.github.io/). Since February 2025, I have been an intern in the Foundation Model Group at MEGVII Technology.
 
 
-My current research interests are in the areas of (1) **Video segmentation**, (2) **Open-vocabulary segmentation**.
+
+My current research interests are in the areas of (1) **Embodied AI**, (2) **Open-vocabulary segmentation**, (3) **Video segmentation**.
 
 
 # 🔥 News
+- *2025.02*: One paper(VideoGLaMM) is accepted by CVPR 2025.
 - *2024.10*: One paper(CLIP-VIS) is accepted by IEEE TCSVT.
+
 
 # Publications 
 
