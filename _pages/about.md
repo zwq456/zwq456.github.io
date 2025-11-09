@@ -46,11 +46,11 @@ Video Instance Segmentation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images\VideoGLaMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images\VideoGLaMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VideoGLaMM : A Large Multimodal Model for Pixel-Level  Visual Grounding in Videos
-|**CVPR 2025**|[Paper](https://arxiv.org/abs/2411.04923)|[Code](https://mbzuai-oryx.github.io/VideoGLaMM)|
+|**CVPR 2025**|[Paper]([https://arxiv.org/abs/2411.04923](https://openaccess.thecvf.com/content/CVPR2025/html/Munasinghe_VideoGLaMM__A_Large_Multimodal_Model_for_Pixel-Level_Visual_Grounding_CVPR_2025_paper.html))|[Code](https://mbzuai-oryx.github.io/VideoGLaMM)|
 
 Shehan Munasinghe, Hanan Gani, **Wenqi Zhu**, Jiale Cao, Eric Xing, Fahad Shahbaz Khan and Salman Khan
 
