@@ -34,7 +34,7 @@ My current research interests are in the areas of (1) **Embodied AI**, (2) **Ope
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='iimages/sed++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/sed++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SED++: A Simple Encoder-Decoder for  Improved Open-Vocabulary Semantic  Segmentation
