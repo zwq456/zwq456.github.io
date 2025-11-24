@@ -40,7 +40,7 @@ My current research interests are in the areas of (1) **Embodied AI**, (2) **Ope
 SED++: A Simple Encoder-Decoder for  Improved Open-Vocabulary Semantic  Segmentation
 |**IEEE TPAMI**|[Paper](https://ieeexplore.ieee.org/document/11223241)|[Code](https://github.com/xb534/SED.git)|
 
-**Wenqi Zhu\***, Bin Xie\*, Jiale Cao, Jin Xie, Fahad Shahbaz Khan, and Yanwei Pang
+**Wenqi Zhu&#42;**, Bin Xie&#42;, Jiale Cao, Jin Xie, Fahad Shahbaz Khan, and Yanwei Pang
 
 - <strong style="color:green">We introduce no-label prompt learning and CER in the encoder, which jointly improve the model’s inference speed and segmentation accuracy. In addition, we propose a lightweight temporal aggregation layer that adapts the method to video-based tasks.
 </strong>
